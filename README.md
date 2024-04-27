@@ -1,4 +1,5 @@
-API ini digunakan untuk menyimpan dan mengelola daftar pengguna (users) dengan menggunakan metode HTTP GET, POST, DELETE, dan PUT.
+API ini digunakan untuk menyimpan dan mengelola daftar pengguna (users) dengan menggunakan metode 
+HTTP GET, POST, DELETE, dan PUT.
 
 Endpoint
 GET /
